@@ -1,7 +1,8 @@
 <img align="center" alt="Coding" width="100%" height="250px" src="https://tapendrapandey.com.np/wp-content/uploads/2020/09/head.gif" />
 
 <h1 align="center">Hi 👋, I'm Vijit Singh</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<h3 align="center">I'm a Full Stack Web Developer with the ability to learn and collaborate in rapidly changing environments. Dedicated to developing and optimizing interactive, user-friendly and feature-rich websites.I enjoy using my obsessive attention to little detail. Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.
+I love programming, writing, speaking and traveling.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" />
 
