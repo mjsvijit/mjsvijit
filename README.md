@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node JS and CSA**
 
-- 👨‍💻 All of my projects are available at [https://fascinating-mousse-608849.netlify.app/](https://fascinating-mousse-608849.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://vijit-portfolio.netlify.app/](https://vijit-portfolio.netlify.app/)
 
 - 📫 How to reach me **MO-7905597148**
 
